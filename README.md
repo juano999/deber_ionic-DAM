@@ -27,4 +27,12 @@ De esta forma, obtenemos la aplicación para posteriormente realizar su compilac
 
 4. Para finalizar, se puede visualizar la aplicación ya sea en un dispositivo físico o un dispositivo virtual.
 
-![bienvenido](https://user-images.githubusercontent.com/58042215/143907809-e8fcaa28-d0e8-45ff-aaa8-03ba0946d621.PNG)
+![bienvenido](https://user-images.githubusercontent.com/58042215/143907809-e8fcaa28-d0e8-45ff-aaa8-03ba0946d621.PNG) 
+
+![SQLite](https://user-images.githubusercontent.com/58042215/143908331-a1d28ac3-0835-4d09-bb9a-82b3056c2c3f.PNG)
+
+![geo](https://user-images.githubusercontent.com/58042215/143908551-47916927-a01a-4462-9c79-02c895a1a1e2.PNG)
+
+![tareas](https://user-images.githubusercontent.com/58042215/143908621-5d34b66c-c2b7-4a7a-9c0d-c2b665ca072c.PNG)
+
+
