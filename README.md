@@ -28,6 +28,3 @@ De esta forma, obtenemos la aplicación para posteriormente realizar su compilac
 4. Para finalizar, se puede visualizar la aplicación ya sea en un dispositivo físico o un dispositivo virtual.
 
 ![bienvenido](https://user-images.githubusercontent.com/58042215/143907809-e8fcaa28-d0e8-45ff-aaa8-03ba0946d621.PNG)
-
-
-
