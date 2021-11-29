@@ -6,8 +6,9 @@ Este deber fue realizado por:
   - Bernabé Dávila
   - Byron Huaraca
 	
-En la siguiente sección esta disponible el informe acerca de lo realizado. Se crean dos páginas y dos servicios.
+En la siguiente sección se encuentra disponible el informe acerca de lo realizado. Se crean dos páginas y dos servicios.
 
+[Informe_Ionic_Sqlite.pdf](https://github.com/juano999/deber_ionic-DAM/files/7619718/Informe_Ionic_Sqlite.pdf)
 
 1. La ejecución de la aplicación en Android Studio se la realiza luego de hacer la ejecución de los comandos: 
   - npx cap add android
